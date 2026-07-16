@@ -11,7 +11,7 @@ public:
         int i = 0;
         int j = prefix.size()-1;
         long long sum = 0;
-        int long ans;
+        long long ans;
         while(i<j){
             ans = gcd(prefix[i],prefix[j]);
             sum+=ans;
