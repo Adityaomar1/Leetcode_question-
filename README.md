@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
