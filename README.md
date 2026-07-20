@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0739-daily-temperatures) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0739-daily-temperatures) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0145-binary-tree-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
