@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0328-odd-even-linked-list) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0876-middle-of-the-linked-list) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0148-sort-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -106,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
