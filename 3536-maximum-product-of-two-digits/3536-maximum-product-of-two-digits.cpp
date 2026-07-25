@@ -8,7 +8,6 @@ public:
             ans.push_back(d);
             n/=10;
         }
-        reverse(ans.begin(),ans.end());
         sort(ans.begin(),ans.end());
         int m = ans.size();
         int prod = ans[m-1]*ans[m-2];
