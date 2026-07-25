@@ -9,15 +9,9 @@ public:
             n/=10;
         }
         reverse(ans.begin(),ans.end());
-        int prod;
-        for(int j=0;j<ans.size();j++){
-            for(int i = j+1;i<ans.size();i++){
-                prod = ans[i]*ans[j];
-                if(prod>mn){
-                    mn =prod;
-                }
-            }
-        }
-        return mn;
+        sort(ans.begin(),ans.end());
+        int m = ans.size();
+        int prod = ans[m-1]*ans[m-2];
+        return prod;
     }
 };
