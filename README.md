@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0027-remove-element) |
+| [0485-max-consecutive-ones](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0739-daily-temperatures) |
