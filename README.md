@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
