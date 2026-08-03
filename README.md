@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
