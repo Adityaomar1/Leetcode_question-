@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0027-remove-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0503-next-greater-element-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -227,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0410-split-array-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
