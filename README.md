@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3731-find-missing-elements) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
