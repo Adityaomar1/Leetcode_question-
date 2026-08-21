@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0692-top-k-frequent-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0713-subarray-product-less-than-k) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Geometry
 |  |
@@ -281,4 +285,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0973-k-closest-points-to-origin) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
