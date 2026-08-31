@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0202-happy-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1004-max-consecutive-ones-iii) |
