@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3731-find-missing-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3925-concatenate-array-with-reverse) |
 ## Stack
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1004-max-consecutive-ones-iii) |
+| [3903-smallest-stable-index-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
