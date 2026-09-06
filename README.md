@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0142-linked-list-cycle-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
