@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0739-daily-temperatures) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Breadth-First Search
 |  |
 | ------- |
