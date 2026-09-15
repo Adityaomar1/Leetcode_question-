@@ -130,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0973-k-closest-points-to-origin) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
