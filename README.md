@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1313-decompress-run-length-encoded-list) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
