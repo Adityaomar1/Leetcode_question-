@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
@@ -367,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
