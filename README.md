@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1313-decompress-run-length-encoded-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1313-decompress-run-length-encoded-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1208-get-equal-substrings-within-budget) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1208-get-equal-substrings-within-budget) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
