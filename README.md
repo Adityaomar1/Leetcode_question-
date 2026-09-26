@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
