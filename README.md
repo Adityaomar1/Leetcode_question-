@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0692-top-k-frequent-words) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
