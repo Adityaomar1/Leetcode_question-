@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0739-daily-temperatures) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0692-top-k-frequent-words) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -403,4 +405,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
