@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0131-palindrome-partitioning) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0509-fibonacci-number) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
