@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0856-score-of-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0692-top-k-frequent-words) |
+| [0856-score-of-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0856-score-of-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1208-get-equal-substrings-within-budget) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
