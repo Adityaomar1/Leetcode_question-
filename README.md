@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0046-permutations) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0148-sort-list) |
