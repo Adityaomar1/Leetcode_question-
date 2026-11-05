@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1313-decompress-run-length-encoded-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityaomar1/Leetcode_question-/tree/master/0973-k-closest-points-to-origin) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityaomar1/Leetcode_question-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1208-get-equal-substrings-within-budget) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityaomar1/Leetcode_question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
